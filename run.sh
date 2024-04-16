@@ -1,0 +1,1 @@
+python main.py --DR AE --iter 20 --data_size 15 --AE_epoch 5
